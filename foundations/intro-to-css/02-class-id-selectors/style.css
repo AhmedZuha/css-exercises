@@ -13,3 +13,10 @@ p {
     color: blue;
     font-size: 24px;
 }
+
+#another {
+    background-color: lawngreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
